@@ -1,4 +1,4 @@
-# DVX1DE - System Administrator Portfolio
+# DVXIDE - System Administrator Portfolio
 
 Professional portfolio website for DVX1DE, showcasing system administration expertise, infrastructure management, and technical skills.
 
@@ -200,12 +200,12 @@ Visit: [www.dvx1de.de](https://www.dvx1de.de)
 
 ## 📧 Contact
 
-- Email: info@dvx1de.de
+- Email: contact@dvx1de.de
 - GitHub: [@Dvxide](https://github.com/Dvxide)
-- Twitter: [@dvx1de](https://twitter.com/dvx1de)
+- Twitter: [@dvx1de](https://twitter.com/dvxide)
 
 ---
 
-Built with ❤️ by DVX1DE
+Built by DVXIDE
 
 Last Updated: January 2026
