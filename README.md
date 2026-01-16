@@ -10,9 +10,9 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  > whoami                                                      ║
+║  > whoami                                                     ║
 ║  Davide | System Administrator                                ║
-║                                                                ║
+║                                                               ║
 ║  > cat ~/.interests                                           ║
 ║  • Linux/Windows Server Administration                        ║
 ║  • Network Infrastructure & Security                          ║
@@ -253,7 +253,7 @@ philosophy: "Automate everything, monitor constantly, secure by default"
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  "In System Administration, we trust the logs, not luck."  │
+│  "In System Administration, we trust the logs, not luck."   │
 │                       - DVX1DE                              │
 └─────────────────────────────────────────────────────────────┘
 ```
