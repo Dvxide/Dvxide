@@ -202,7 +202,7 @@ Visit: [www.dvx1de.de](https://www.dvx1de.de)
 
 - Email: contact@dvx1de.de
 - GitHub: [@Dvxide](https://github.com/Dvxide)
-- Twitter: [@dvx1de](https://twitter.com/dvxide)
+- Twitter: [@dvxide](https://twitter.com/dvxide)
 
 ---
 
