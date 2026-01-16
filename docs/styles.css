@@ -564,6 +564,11 @@ section {
     font-family: 'JetBrains Mono', monospace;
 }
 
+[data-theme="light"] .profile-status {
+    background: rgba(255, 255, 255, 0.9);
+    color: var(--text-primary);
+}
+
 .status-indicator {
     width: 8px;
     height: 8px;
