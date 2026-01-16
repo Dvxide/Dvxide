@@ -101,20 +101,6 @@ Ich bin ein **System Administrator**, der sich auf robuste Infrastruktur, sicher
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![DVX1DE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dvxide&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvxide&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dvxide&theme=radical&hide_border=true&background=0d1117&ring=dc2626&fire=dc2626&currStreakLabel=dc2626)
-
-</div>
-
----
-
 ## 🏠 Homelab Infrastructure
 
 ```bash
