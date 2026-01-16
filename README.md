@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-www.dvx1de.de-dc2626?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dvx1de.de)
 [![Twitter](https://img.shields.io/badge/Twitter-@dvx1de-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dvx1de)
-[![Email](https://img.shields.io/badge/Email-info@dvx1de.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@dvxide.de)
+[![Email](https://img.shields.io/badge/Email-contact@dvx1de.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dvxide.de)
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
