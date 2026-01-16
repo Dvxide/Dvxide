@@ -20,7 +20,7 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: './Dvx1de'
   
   deploy:
     environment:
