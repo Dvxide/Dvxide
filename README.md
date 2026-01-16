@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 DVX1DE
+#  DVXIDE
 
 ### System Administrator | Infrastructure Specialist | Security Enthusiast
 
