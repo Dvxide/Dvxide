@@ -122,21 +122,44 @@ nav.scrolled {
 .logo {
     display: flex;
     align-items: center;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: var(--text-primary);
     text-decoration: none;
+    transition: all 0.3s ease;
+    position: relative;
+    height: 50px;
+}
+
+.logo-image {
+    height: 50px;
+    width: auto;
     transition: all 0.3s ease;
 }
 
+/* Theme-basiertes Logo Switching */
+.logo-dark {
+    display: block;
+}
+
+.logo-light {
+    display: none;
+}
+
+[data-theme="light"] .logo-dark {
+    display: none;
+}
+
+[data-theme="light"] .logo-light {
+    display: block;
+}
+
+.logo:hover .logo-image {
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 10px var(--accent-glow));
+}
+
+/* Alte Logo-Styles für Fallback */
 .logo-bracket {
     color: var(--accent-primary);
     margin: 0 0.25rem;
-}
-
-.logo:hover {
-    transform: translateY(-2px);
 }
 
 .logo:hover .logo-text {
